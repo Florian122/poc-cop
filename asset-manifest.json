@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/poc-cop/static/css/main.65e9811d.chunk.css",
+    "main.js": "/poc-cop/static/js/main.18adc10c.chunk.js",
+    "main.js.map": "/poc-cop/static/js/main.18adc10c.chunk.js.map",
+    "runtime-main.js": "/poc-cop/static/js/runtime-main.ec54b679.js",
+    "runtime-main.js.map": "/poc-cop/static/js/runtime-main.ec54b679.js.map",
+    "static/js/2.832b8c15.chunk.js": "/poc-cop/static/js/2.832b8c15.chunk.js",
+    "static/js/2.832b8c15.chunk.js.map": "/poc-cop/static/js/2.832b8c15.chunk.js.map",
+    "index.html": "/poc-cop/index.html",
+    "precache-manifest.53b7a3725b814b816f0f48018c38f192.js": "/poc-cop/precache-manifest.53b7a3725b814b816f0f48018c38f192.js",
+    "service-worker.js": "/poc-cop/service-worker.js",
+    "static/css/main.65e9811d.chunk.css.map": "/poc-cop/static/css/main.65e9811d.chunk.css.map",
+    "static/js/2.832b8c15.chunk.js.LICENSE.txt": "/poc-cop/static/js/2.832b8c15.chunk.js.LICENSE.txt",
+    "static/media/Muli-Bold.ttf": "/poc-cop/static/media/Muli-Bold.1e36ee6d.ttf",
+    "static/media/Muli.ttf": "/poc-cop/static/media/Muli.df733025.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec54b679.js",
+    "static/js/2.832b8c15.chunk.js",
+    "static/css/main.65e9811d.chunk.css",
+    "static/js/main.18adc10c.chunk.js"
+  ]
+}
